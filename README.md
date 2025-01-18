@@ -1,4 +1,4 @@
-## TasteSwap
+# TasteSwap
 
 Final project Building Al course project
 
