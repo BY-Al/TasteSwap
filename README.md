@@ -1,6 +1,6 @@
 # TasteSwap
 
-Final project Building Al course project
+Building Al course final project
 
 ## Summary
 The project is an app that suggests healthier alternatives to ingredients in your favorite dishes. The idea is to input a dish, and the app will provide a healthier version of the recipe without compromising on taste. It might replace ingredients like sugar with healthier alternatives and explain why those choices are better for your health, while still being tasty.
